@@ -1,6 +1,6 @@
 numpy
 Pillow
 pathlib
-scikit-learn
-joblib
+scikit-learn==1.6.1
+joblib==1.5.2
 streamlit
