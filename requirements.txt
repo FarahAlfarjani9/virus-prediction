@@ -1,0 +1,6 @@
+numpy
+Pillow
+pathlib
+scikit-learn
+joblib
+streamlit
